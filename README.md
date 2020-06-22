@@ -45,7 +45,7 @@ reverse three -> 0 1 2 3 4 5 6 -> 2 -> 0 1 4 3 2 5 6
 <br><br><br><br>
 
 ![all](https://user-images.githubusercontent.com/54853371/85343854-589b2480-b4ee-11ea-8fd2-05ccb7e25c9f.gif)
-red - highter, blue, green and ... are the 2.5 save of the 10 individu
+red - highter, blue, green and yellow are the 2.5 save of the 10 individu
 <br><br>
 
 ![c](https://user-images.githubusercontent.com/54853371/85343849-56d16100-b4ee-11ea-89d1-47d543a21ede.png)
