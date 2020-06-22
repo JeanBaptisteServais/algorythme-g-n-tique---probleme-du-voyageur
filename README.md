@@ -1,6 +1,11 @@
 # algorythme-g-n-tique---probleme-du-voyageur
 traveller problem, algorythme génétic and mutation technicsss
 
+Can for example <e can propose the minus road for navigate into a store and search quickly toilet, or with the preferance of the person propose him minimum road with store feeling
+
+
+
+
 <h1>Selection 1</h1>
 
 ![a](https://user-images.githubusercontent.com/54853371/85343886-6a7cc780-b4ee-11ea-820a-54a54a138981.png)
