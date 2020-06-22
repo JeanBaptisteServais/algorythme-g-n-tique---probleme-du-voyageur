@@ -12,14 +12,27 @@ choice of number of road
 
 ![a](https://user-images.githubusercontent.com/54853371/85343886-6a7cc780-b4ee-11ea-820a-54a54a138981.png)
 
-<h2>Mutation 1</h2>
+<h3>Mutation 1</h3> 
+by changing pairs: 0 1 2 3 4 5 6 -> 12/34 -> 0 4 3 2 1 5 6 
+
 <h3>Mutation 2</h3>
+by changing one pair: 0 1 2 3 4 5 6 -> 1/3 -> 0 3 2 1 4 5 6 
+
 <h3>Mutation 3</h3>
+by seq reverse:  0 1 2 3 4 5 6 -> 3 -> 0 3 2 1 6 5 4 
+
 <h3>Mutation 4</h3>
+by reverse from one points:  0 1 2 3 4 5 6 -> 3 -> 0 1 2 6 5 4 3
+
 <h3>Mutation 5</h3>
-<h3>Mutation 6</h3>
+by probaility -> define P / generation p -> if p < P - generate other point to change
+
+
+<h3>Mutation 6</h3> 
+replace three points randomly -> i -> j -> i -> j ->  0 1 2 3 4 5 6 -> 1 3 5 -> 0 3 2 1 4 5 6 -> 0 5 2 1 4 3 6
+
 <h3>Mutation 7</h3>
-<h3>Mutation 8</h3>
+reverse three -> 0 1 2 3 4 5 6 -> 2 -> 0 1 4 3 2 5 6
 
 
 
