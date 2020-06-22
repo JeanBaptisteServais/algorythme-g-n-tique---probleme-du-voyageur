@@ -3,9 +3,9 @@ traveller problem, algorythme génétic and mutation technicsss
 
 Can for example we can propose the minus road for navigate into a store and search quickly toilet, or with the preferance of the person propose him minimum road with store feeling on a A point to a B point
 
-2 choices of points (euclidean or number 0 - x)
-choice to stop (stabilisation of the better road of 2000 générations)
-choice of number of road
+  - 2 choices of points (euclidean or number 0 - x)
+  - choice to stop (stabilisation of the better road of 2000 générations)
+  - choice of number of road
 
 
 <h1>Selection 1</h1>
