@@ -1,7 +1,7 @@
 # algorythme-g-n-tique---probleme-du-voyageur
 traveller problem, algorythme génétic and mutation technicsss
 
-Can for example we can propose the minus road for navigate into a store and search quickly toilet, or with the preferance of the person propose him minimum road with store feeling
+Can for example we can propose the minus road for navigate into a store and search quickly toilet, or with the preferance of the person propose him minimum road with store feeling on a A point to a B point
 
 2 choices of points (euclidean or number 0 - x)
 choice to stop (stabilisation of the better road of 2000 générations)
@@ -12,14 +12,14 @@ choice of number of road
 
 ![a](https://user-images.githubusercontent.com/54853371/85343886-6a7cc780-b4ee-11ea-820a-54a54a138981.png)
 
-<h1>Mutation 1</h1>
-<h1>Mutation 2</h1>
-<h1>Mutation 3</h1>
-<h1>Mutation 4</h1>
-<h1>Mutation 5</h1>
-<h1>Mutation 6</h1>
-<h1>Mutation 7</h1>
-<h1>Mutation 8</h1>
+<h2>Mutation 1</h2>
+<h3>Mutation 2</h3>
+<h3>Mutation 3</h3>
+<h3>Mutation 4</h3>
+<h3>Mutation 5</h3>
+<h3>Mutation 6</h3>
+<h3>Mutation 7</h3>
+<h3>Mutation 8</h3>
 
 
 
