@@ -36,6 +36,8 @@ replace three points randomly -> i -> j -> i -> j ->  0 1 2 3 4 5 6 -> 1 3 5 -> 
 <h3>Mutation 7</h3>
 reverse three -> 0 1 2 3 4 5 6 -> 2 -> 0 1 4 3 2 5 6
 
+<br><br>
+
 
 
 ![road](https://user-images.githubusercontent.com/54853371/85343888-6b155e00-b4ee-11ea-9e69-23b541b142de.gif)<br>
