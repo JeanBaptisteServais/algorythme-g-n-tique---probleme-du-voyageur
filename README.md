@@ -1,6 +1,18 @@
 # algorythme-g-n-tique---probleme-du-voyageur
 traveller problem, algorythme génétic and mutation technicsss
 
+<h1>Selection 1</h1>
+
+<h1>Mutation 1</h1>
+<h1>Mutation 2</h1>
+<h1>Mutation 3</h1>
+<h1>Mutation 4</h1>
+<h1>Mutation 5</h1>
+<h1>Mutation 6</h1>
+<h1>Mutation 7</h1>
+<h1>Mutation 8</h1>
+
+
 
 ![road](https://user-images.githubusercontent.com/54853371/85343888-6b155e00-b4ee-11ea-9e69-23b541b142de.gif)<br>
 (take long but it moves)
@@ -12,6 +24,7 @@ traveller problem, algorythme génétic and mutation technicsss
 ![b](https://user-images.githubusercontent.com/54853371/85343851-58028e00-b4ee-11ea-911b-79b221d2e3f2.png)
 
 ![a](https://user-images.githubusercontent.com/54853371/85343886-6a7cc780-b4ee-11ea-820a-54a54a138981.png)
+
 
 
 
