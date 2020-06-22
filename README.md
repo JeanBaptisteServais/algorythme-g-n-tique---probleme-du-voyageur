@@ -2,7 +2,7 @@
 traveller problem, algorythme génétic and mutation technicsss
 
 
-![road](https://user-images.githubusercontent.com/54853371/85343888-6b155e00-b4ee-11ea-9e69-23b541b142de.gif)
+![road](https://user-images.githubusercontent.com/54853371/85343888-6b155e00-b4ee-11ea-9e69-23b541b142de.gif)<br>
 (take long but it moves)
 <br><br><br><br>
 
