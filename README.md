@@ -10,6 +10,8 @@ choice of number of road
 
 <h1>Selection 1</h1>
 
+by competition or selection havnt understood, recuperate the x of the population (we can choose it)
+
 ![a](https://user-images.githubusercontent.com/54853371/85343886-6a7cc780-b4ee-11ea-820a-54a54a138981.png)
 
 <h3>Mutation 1</h3> 
